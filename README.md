@@ -6,4 +6,4 @@
  $\color{#d690c0}\text{ Information here! }$
 
  <p align="center">
-<a href="https://github.com/WhispedVanilla">@WhispedVanilla</a> ↠ Pony Town's #1 <strong><ins> Swordshot shipper [Sword x Slingshot] </ins></strong> from <ins>Phighting!</ins>
+<a href="https://github.com/WhispedVanilla">@WhispedVanilla</a>  $\color{#d690c0}\text{ ↠ Pony Town's #1  }$ <strong><ins> Swordshot shipper [Sword x Slingshot] </ins></strong>  $\color{#d690c0}\text{ from }$ <ins>Phighting!</ins>
