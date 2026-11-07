@@ -6,4 +6,4 @@
  $\color{#d690c0}\text{ Information here! }$
 
  <p align="center">
-@WhispedVanilla ↠ Pony Town's #1 <strong><u> Swordshot shipper [Sword x Slingshot] </u></strong> from <ins>Phighting!</ins>
+@WhispedVanilla ↠ Pony Town's #1 <strong><ins> Swordshot shipper [Sword x Slingshot] </ins></strong> from <ins>Phighting!</ins>
