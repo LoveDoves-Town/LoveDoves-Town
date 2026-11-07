@@ -1,7 +1,3 @@
 ## WIP LoveDoves-Town!! <3
 
-public class Main {
- System.out.print("Hell0");
-}
-
-main();
+<img src="https://cdn.discordapp.com/attachments/1473772950103658590/1568524956818472970/A7BB5FB9-F28C-4442-9FEA-71850999B8B0.gif?ex=6af02233&is=6aeed0b3&hm=964c67d7b8417a0a4a30b953cccc46348eb2cd10668d042df03e46ad9fbf55d5&" width="700" alt="Banner">
